@@ -12,7 +12,7 @@ django-js-asset==1.2.2
 django-kombu==0.9.4
 django-redis==4.10.0
 fdfs-client==4.0.7
-flower==0.9.3
+flower==1.2.0
 itsdangerous==1.1.0
 jieba==0.39
 kombu==3.0.37
